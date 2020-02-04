@@ -4,22 +4,23 @@ This repository is based on how to implement step by step one-to-one entity mapp
 
 <h2>Tools and Technologies used</h2>
 <ul>
-<ul>Spring boot 2+</ul>
-<ul>Hibernate 5+</ul>
-<ul>JDK 1.8+</ul>
-<ul>Maven 3+</ul>
-<ul>IDE - STS or Eclipse</ul>
-<ul>Spring Data JPA</ul>
-<ul>PostgreSQL 5+</ul>
+  <li>Spring boot 2+</li>
+  <li>Hibernate 5+</li>
+  <li>JDK 1.8+</li>
+  <li>Maven 3+</li>
+  <li>IDE - STS or Eclipse</li>
+  <li>Spring Data JPA</li>
+  <li>PostgreSQL 5+</li>
 </ul>
 <br>
 <h2>Development Steps</h2>
-<ul>Create Spring boot application</ul>
-<ul>Maven pom dependencies</ul>
-<ul>Project Structure</ul>
-<ul>Configuring the Database and Logging</ul>
-<ul>Defining the Domain Models</ul>
-<ul>Defining the Repositories</ul>
-<ul>Spring Boot Controller - InstructorController.java</ul>
-<ul>Run the application</ul>
+<ul>
+  <li>Create Spring boot application</li>
+  <li>Maven pom dependencies</li>
+  <li>Project Structure</li>
+  <li>Configuring the Database and Logging</li>
+  <li>Defining the Domain Models</li>
+  <li>Defining the Repositories</li>
+  <li>Spring Boot Controller - InstructorController.java</li>
+  <li>Run the application</li>
 </ul>
