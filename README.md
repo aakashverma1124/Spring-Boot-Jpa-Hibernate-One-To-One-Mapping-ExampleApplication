@@ -24,3 +24,9 @@ This repository is based on how to implement step by step one-to-one entity mapp
   <li>Spring Boot Controller - InstructorController.java</li>
   <li>Run the application</li>
 </ul>
+<br>
+<h4>The following image shows the table structure of <b>instructor</b> table.</h4>
+<img src = "Instructor.png">
+<br>
+<h4>The following image shows the table structure of <b>instructor_detail</b> table.</h4>
+<img src = "Instructor.png">
