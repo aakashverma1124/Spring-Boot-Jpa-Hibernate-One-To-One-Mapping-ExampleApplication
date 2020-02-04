@@ -29,4 +29,4 @@ This repository is based on how to implement step by step one-to-one entity mapp
 <img src = "Instructor.png">
 <br>
 <h4>The following image shows the table structure of <b>instructor_detail</b> table.</h4>
-<img src = "Instructor.png">
+<img src = "InstructorDetails.png">
