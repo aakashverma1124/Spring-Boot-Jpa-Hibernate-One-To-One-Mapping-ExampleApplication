@@ -10,7 +10,7 @@ This repository is based on how to implement step by step one-to-one entity mapp
   <li>Maven 3+</li>
   <li>IDE - STS or Eclipse</li>
   <li>Spring Data JPA</li>
-  <li>PostgreSQL 5+</li>
+  <li>PostgreSQL 10+</li>
 </ul>
 <br>
 <h2>Development Steps</h2>
