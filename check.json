@@ -1,0 +1,14 @@
+[
+   {
+      "parameterId":1,
+      "parameterName":"SEAM COMPRESSION"
+   },
+   {
+      "parameterId":2,
+      "parameterName":"POLY FLOW"
+   },
+   {
+      "parameterId":4,
+      "parameterName":"SIDE SEAL OVERLAP"
+   }
+]
